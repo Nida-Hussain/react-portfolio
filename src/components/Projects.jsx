@@ -7,56 +7,56 @@ const Projects = ({ darkMode }) => {
       description: "User authentication system with secure login and registration functionality",
       tech: "JavaScript, HTML, CSS",
       image: "./assets/images/login-signup-image.jpg",
-      link: "https://github.com/Nida-Hussain/login-signup"
+      link: "https://login-signup-gamma-mauve.vercel.app/"
     },
     {
       title: "Notes App",
       description: "Feature-rich note-taking application for organizing thoughts and ideas",
       tech: "JavaScript, Local Storage",
       image: "/assets/images/notes-app.png",
-      link: "https://github.com/Nida-Hussain/notes-app"
+      link: "https://notes-app-five-snowy-35.vercel.app/"
     },
     {
       title: "Todo App",
       description: "Task management app to track and organize daily activities efficiently",
       tech: "JavaScript, DOM Manipulation",
       image: "./assets/images/todo-App.jpg",
-      link: "https://github.com/Nida-Hussain/todo-app"
+      link: "https://todo-app-pi-henna-63.vercel.app/"
     },
     {
       title: "API Product Cards",
       description: "Dynamic product display using API integration with responsive design",
       tech: "JavaScript, API, CSS",
       image: "/assets/images/api-product-cards.PNG",
-      link: "https://github.com/Nida-Hussain/API-based-Product-Cards"
+      link: "https://nida-hussain.github.io/API-based-Product-Cards/"
     },
     {
       title: "Quiz App",
       description: "Interactive quiz application with scoring and feedback system",
       tech: "JavaScript, HTML, CSS",
       image: "/assets/images/quiz-app.png",
-      link: "https://github.com/Nida-Hussain/Quiz-App"
+      link: "https://nida-hussain.github.io/Quiz-App/"
     },
     {
       title: "Drawing App",
       description: "Canvas-based drawing application with multiple tools and colors",
       tech: "JavaScript, Canvas API",
       image: "/assets/images/drawing-app.jpg",
-      link: "https://github.com/Nida-Hussain/Drawing-App"
+      link: "https://nida-hussain.github.io/Drawing-App/"
     },
     {
       title: "TicTacToe Game",
       description: "Classic TicTacToe game with interactive gameplay and win detection",
       tech: "JavaScript, Game Logic",
       image: "/assets/images/tictactoe.png",
-      link: "https://github.com/Nida-Hussain/TicTacToe-game"
+      link: "https://nida-hussain.github.io/TicTacToe-game/"
     },
     {
       title: "Portfolio Website",
       description: "Personal portfolio showcasing projects and skills with modern design",
       tech: "HTML, CSS, JavaScript",
       image: "/assets/images/portfolio.PNG",
-      link: "https://github.com/Nida-Hussain/portfolio"
+      link: "https://nida-hussain.github.io/portfolio/"
     }
   ];
 
